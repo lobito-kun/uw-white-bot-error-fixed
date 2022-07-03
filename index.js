@@ -52,7 +52,7 @@ console.log(color(figlet.textSync('NixiSyste,by Max', {
 		whitespaceBreak: true
         }), 'yellow'))
 console.log(color('\n🐶 YT CHANNEL: Krazy Max ','silver'))
-console.log(color('🐶 INSTAGRAM: usser_account ','silver'))
+console.log(color('🐶 INSTAGRAM: usser_account_ ','silver'))
 console.log(color('🐶 WA NUMBER: +5493704583368 ','silver'))
 console.log(color('  🦄NixiSystemV2.1. 2022🦄','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))

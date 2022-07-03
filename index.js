@@ -44,7 +44,7 @@ const {
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
 
 async function startXeonBotInc() {
-console.log(color(figlet.textSync('NixiSyste,by Max', {
+console.log(color(figlet.textSync('NixiSystem by Max', {
 		font: 'Pagga',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
